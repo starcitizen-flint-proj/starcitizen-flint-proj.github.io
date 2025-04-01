@@ -1,30 +1,41 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <title>星际公民燧石计划 | SC Flint Proj Docs Site</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Documentation for the Star Citizen Flint Project">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-</head>
-<body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      homepage: 'home.md', // 指定自定义主页文件
-      name: '星际公民燧石计划 | SC Flint Proj Docs Site',
-      repo: 'https://github.com/starcitizen-flint-proj/starcitizen-flint-proj.github.io',
-      loadSidebar: true,
-      subMaxLevel: 2,
-      coverpage: true,
-      search: {
-        placeholder: 'Search...',
-        noData: 'No results found!',
-      }
-    }
-  </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
-</body>
+    <head>
+        <meta charset="UTF-8" />
+        <title>星际公民燧石计划 | SC Flint Proj Docs Site</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta
+            name="description"
+            content="Documentation site for the Star Citizen Flint Project"
+        />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
+        />
+        <link
+            rel="stylesheet"
+            href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
+        />
+    </head>
+    <body>
+        <div id="app"></div>
+        <script>
+            window.$docsify = {
+                homepage: "home.md", // 指定自定义主页文件
+                name: "星际公民燧石计划",
+                repo: "https://github.com/starcitizen-flint-proj/starcitizen-flint-proj.github.io",
+                loadSidebar: true,
+                subMaxLevel: 2,
+                coverpage: true,
+                search: {
+                    placeholder: "Search...",
+                    noData: "No results found!",
+                },
+            };
+        </script>
+        <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+        <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+        <!-- Latest -->
+        <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+    </body>
 </html>

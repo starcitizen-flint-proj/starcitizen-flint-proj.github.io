@@ -1,1 +1,5 @@
-* [Home](/)
+* [主页](/)
+* [帮助文档](/docs/help-docs/home.md)
+* [简短指南](/docs/fast-qa/home.md)
+* [吐槽&娱乐帖](/docs/random-post/home.md)
+* [网站QA](/docs/site-qa/home.md)

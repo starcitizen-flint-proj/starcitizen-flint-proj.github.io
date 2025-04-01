@@ -2,9 +2,9 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>星际公民燧石计划站 | SC Flint Proj Docs Site</title>
+  <title>星际公民燧石计划 | SC Flint Proj Docs Site</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="一个提供各种帮助文档的网站，帮助玩家更好地理解和游玩星际公民。">
+  <meta name="description" content="Documentation for the Star Citizen Flint Project">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
@@ -12,13 +12,19 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '星际公民燧石计划站 | SC Flint Proj Docs Site',
+      homepage: 'home.md', // 指定自定义主页文件
+      name: '星际公民燧石计划 | SC Flint Proj Docs Site',
       repo: 'https://github.com/starcitizen-flint-proj/starcitizen-flint-proj.github.io',
       loadSidebar: true,
       subMaxLevel: 2,
-      coverpage: true
+      coverpage: true,
+      search: {
+        placeholder: 'Search...',
+        noData: 'No results found!',
+      }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
 </body>
 </html>

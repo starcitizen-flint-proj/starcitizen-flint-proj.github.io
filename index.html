@@ -28,18 +28,20 @@
                 subMaxLevel: 2,
                 coverpage: true,
                 search: {
-                    placeholder: "Search...",
-                    noData: "No results found!",
+                    placeholder: "搜索标题, 内容, 关键词",
+                    noData: "未找到结果",
                 },
-                plugins: [
-                    DocsifyLastUpdate()
-                ],
+                timeUpdater: {
+                    text: ">最后更新时间: {docsify-updated}",
+                    formatUpdated: "{YYYY}/{MM}/{DD}",
+                    whereToPlace: "bottom", // "top" or "bottom", default to "bottom"
+                },
             };
         </script>
         <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
         <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
         <!-- Latest -->
         <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
-        <script src="//cdn.jsdelivr.net/npm/docsify-last-update/dist/docsify-last-update.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
     </body>
 </html>

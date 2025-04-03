@@ -1,6 +1,8 @@
 # 星际公民的货币
 
 > Reference: [星际公民官方文档](https://support.robertsspaceindustries.com/hc/en-us/articles/360006492734-Currencies-of-Star-Citizen-UEC-aUEC-REC-Store-Credit)
+>
+> REC是什么？娱乐/Recreation （雾
 
 ## 货币种类
 

@@ -50,8 +50,8 @@
 满足条件的话可以在官网的支持中心提交补填申请。
 
 补填教程如下：
-[1](https://pic1.imgdb.cn/item/67eb87d30ba3d5a1d7e8f908.jpg)
-[2](https://pic1.imgdb.cn/item/67eb87f40ba3d5a1d7e8f916.png)
+![1](https://pic1.imgdb.cn/item/67eb87d30ba3d5a1d7e8f908.jpg)
+![2](https://pic1.imgdb.cn/item/67eb87f40ba3d5a1d7e8f916.png)
 
 ## 有啥其他方式增加邀请点数吗
 

@@ -6,7 +6,7 @@
 ---
 
 ## 网站介绍
-本网站是一个为星际公民玩家提供的(希望是)社区驱动的文档站，致力于提供一些wiki以外的补充说明和各类帮助。
+本网站是一个为星际公民玩家提供的(但愿)社区驱动的文档站，致力于提供一些wiki以外的补充说明和各类帮助。
 
 
 ## 免责声明  
@@ -14,6 +14,8 @@
 
 ## 如何使用
 - 访问网站：[https://starcitizen-flint-proj.github.io](https://starcitizen-flint-proj.github.io)  
+- 国内镜像站 (可能随时更改，如果无法访问请使用Github Page版本): 
+    - [https://sc-flint-proj.maozi.io/#/](https://sc-flint-proj.maozi.io/#/)
 - 参与贡献：欢迎提交 issues 或 pull requests 来改进文档。  
 
 ---

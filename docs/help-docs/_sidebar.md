@@ -2,4 +2,5 @@
 * [邀请码是什么](/docs/help-docs/refferal-program.md)
 * [星际公民的货币](/docs/help-docs/currencies.md)
 * [货运任务教学](/docs/help-docs/hauling.md)
-* [飞船改装指南](/docs/help-docs/ship-mod.md)
+* [飞船购买指南](/docs/help-docs/buy-ships/home.md)
+* [飞船改装指南(施工中)](/docs/help-docs/ship-mod.md)

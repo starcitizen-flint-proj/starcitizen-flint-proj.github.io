@@ -1,0 +1,6 @@
+* [返回主页](/)
+* [帮助文档主页](/docs/help-docs/home.md)
+* [买船指南主页](/docs/help-docs/buy-ships/home.md)
+* [WB/叠船指南](/docs/help-docs/buy-ships/wb.md)
+* [新手入坑/资格包指南](/docs/help-docs/buy-ships/newbie.md)
+* [游戏币舰船推荐](/docs/help-docs/buy-ships/auec.md)

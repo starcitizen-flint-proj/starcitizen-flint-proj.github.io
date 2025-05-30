@@ -32,27 +32,39 @@
 
 篇内目录：
 
+> [!INFO]
+> 2025/05/30更新：  
+> 出于未知原因，CIG下架了部分新手包（比如极光MR）并将剩下的新手包从舰船命名改为了偏向于职业的命名方法
+> 请自行对应当前情况进行参考，现有资格包的评价依然有效，已下架的资格包（除了极光以外）基本也可以通过CCU的方式升级得到
+
+本章节目录
+
 [极光MR (Aurora MR)](#极光mr-aurora-mr)
 
-[野马 阿尔法 (Mustang Alpha)](#野马-阿尔法-mustang-alpha)
+[野马 阿尔法 (Mustang Alpha) - 公民新手包 / Citizen Starter Pack](#野马-阿尔法-mustang-alpha---公民新手包--citizen-starter-pack)
 
-[小刀 (Cutter)](#小刀-cutter)
+[C8X 双鱼座 探索 (C8X Pisces Expedition) - 探索者新手包 / Seeker Starter Pack](#c8x-双鱼座-探索-c8x-pisces-expedition---探索者新手包--seeker-starter-pack)
 
-[番外篇：小刀 漫步者 (Cutter Rambler)](#番外篇：小刀-漫步者-cutter-rambler)
+[番外篇：C8R 双鱼座 医疗 (C8R Pisces)](#番外篇c8r-双鱼座-医疗-c8r-pisces)
 
-[100i](#_100i)
+[小刀 (Cutter) - 通用新手包 / Generalist Starter Pack](#小刀-cutter---通用新手包--generalist-starter-pack)
 
-[复仇者 泰坦 (Avenger Titan)](#复仇者-泰坦-avenger-titan)
+[番外篇：小刀 漫步者 (Cutter Rambler)](#番外篇小刀-漫步者-cutter-rambler)
 
-[魔像 (Golem)](#魔像-golem)
+[100i](#100i)
 
-[无畏 (Intrepid)](#无畏-intrepid)
+[复仇者 泰坦 (Avenger Titan) - 决斗家新手包 / Duelist Starter Pack](#复仇者-泰坦-avenger-titan---决斗家新手包--duelist-starter-pack)
 
-[速伦 (Syulen)](#速伦-syulen)
+[魔像 (Golem) - 矿工新手包 / Miner Starter Pack](#魔像-golem---矿工新手包--miner-starter-pack)
 
-[箭头 (Arrow)](#箭头-arrow)
+[无畏 (Intrepid) - 货运新手包 / Hauler Starter Pack](#无畏-intrepid---货运新手包--hauler-starter-pack)
 
-[游牧 (Nomad)](#游牧-nomad)
+[速伦 (Syulen) - 异乡人新手包 / Outsider Starter Pack](#速伦-syulen---异乡人新手包--outsider-starter-pack)
+
+[箭头 (Arrow) - 精英决斗新手包 / Advanced Duelist Starter Pack](#箭头-arrow---精英决斗新手包--advanced-duelist-starter-pack)
+
+[游牧 (Nomad) - 高级货运新手包 - Advanced Hauler Starter Pack](#游牧-nomad---高级货运新手包---advanced-hauler-starter-pack)
+
 
 ### 极光MR (Aurora MR)
 
@@ -78,7 +90,7 @@
 
 [回到本章节目录](#资格包介绍)
 
-### 野马 阿尔法 (Mustang Alpha)
+### 野马 阿尔法 (Mustang Alpha) - 公民新手包 / Citizen Starter Pack
 
 ![yma](https://pic1.imgdb.cn/item/680099c488c538a9b5d5bf40.png)
 
@@ -100,7 +112,7 @@
 
 [回到本章节目录](#资格包介绍)
 
-### C8X 双鱼座 探索 (C8X Pisces Expedition)
+### C8X 双鱼座 探索 (C8X Pisces Expedition) - 探索者新手包 / Seeker Starter Pack
 
 ![c8x](https://pic1.imgdb.cn/item/6837e8ff58cb8da5c817e457.png)
 
@@ -142,7 +154,7 @@
 
 [回到本章节目录](#资格包介绍)
 
-### 小刀 (Cutter)
+### 小刀 (Cutter) - 通用新手包 / Generalist Starter Pack
 
 ![xdjc](https://pic1.imgdb.cn/item/68009b6188c538a9b5d5c686.png)
 
@@ -212,7 +224,7 @@
 
 [回到本章节目录](#资格包介绍)
 
-### 复仇者 泰坦 (Avenger Titan)
+### 复仇者 泰坦 (Avenger Titan) - 决斗家新手包 / Duelist Starter Pack
 
 ![tt](https://pic1.imgdb.cn/item/68036aaf58cb8da5c8b59560.png)
 
@@ -233,7 +245,7 @@
 
 [回到本章节目录](#资格包介绍)
 
-### 魔像 (Golem)
+### 魔像 (Golem) - 矿工新手包 / Miner Starter Pack
 
 ![mx](https://pic1.imgdb.cn/item/68076dc458cb8da5c8bfbbf8.png)
 
@@ -254,7 +266,7 @@
 
 [回到本章节目录](#资格包介绍)
 
-### 无畏 (Intrepid)
+### 无畏 (Intrepid) - 货运新手包 / Hauler Starter Pack
 
 ![ww](https://pic1.imgdb.cn/item/68076dd758cb8da5c8bfbc4f.png)
 
@@ -277,7 +289,7 @@
 
 [回到本章节目录](#资格包介绍)
 
-### 速伦 (Syulen)
+### 速伦 (Syulen) - 异乡人新手包 / Outsider Starter Pack
 
 ![sl](https://pic1.imgdb.cn/item/68076e1c58cb8da5c8bfbd69.png)
 
@@ -296,7 +308,7 @@
 
 [回到本章节目录](#资格包介绍)
 
-### 箭头 (Arrow)
+### 箭头 (Arrow) - 精英决斗新手包 / Advanced Duelist Starter Pack
 
 ![jt](https://pic1.imgdb.cn/item/6807701158cb8da5c8bfc527.png)
 
@@ -313,7 +325,7 @@
 
 [回到本章节目录](#资格包介绍)
 
-### 游牧 (Nomad)
+### 游牧 (Nomad) - 高级货运新手包 - Advanced Hauler Starter Pack
 
 ![ym](https://pic1.imgdb.cn/item/6807709f58cb8da5c8bfc77a.png)
 
@@ -336,9 +348,7 @@
 > **笔者注**：
 > 
 > 比游牧还要贵的还有：
-> - 125刀的自由枪骑兵资格包
-> - 125刀的黑弯刀资格包
-> - 275刀的仙女座资格包
+> - 125刀的黑弯刀资格包 (私掠新手包 / Privateer Starter Pack)
 > - 1150刀的终极探索家资格包
 >
 > 无论你是否喜欢这些船，是否有实力购买，这些资格包**均不推荐购买**

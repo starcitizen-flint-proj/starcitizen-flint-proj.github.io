@@ -45,32 +45,35 @@
 
 [极光MR (Aurora MR)](#极光mr-aurora-mr)
 
-[野马 阿尔法 (Mustang Alpha) - 公民新手包 / Citizen Starter Pack](#野马-阿尔法-mustang-alpha---公民新手包--citizen-starter-pack)
+[野马 阿尔法 (Mustang Alpha) - 公民新手包 / Citizen Starter Pack](#野马-阿尔法-mustang-alpha-公民新手包-citizen-starter-pack)
 
-[C8X 双鱼座 探索 (C8X Pisces Expedition) - 探索者新手包 / Seeker Starter Pack](#c8x-双鱼座-探索-c8x-pisces-expedition---探索者新手包--seeker-starter-pack)
+[C8X 双鱼座 探索 (C8X Pisces Expedition) - 探索者新手包 / Seeker Starter Pack](#c8x-双鱼座-探索-c8x-pisces-expedition-探索者新手包-seeker-starter-pack)
 
-[番外篇：C8R 双鱼座 医疗 (C8R Pisces)](#番外篇c8r-双鱼座-医疗-c8r-pisces)
+[番外篇：C8R 双鱼座 医疗 (C8R Pisces)](#番外篇：c8r-双鱼座-医疗-c8r-pisces)
 
-[小刀 (Cutter) - 通用新手包 / Generalist Starter Pack](#小刀-cutter---通用新手包--generalist-starter-pack)
+[小刀 (Cutter) - 通用新手包 / Generalist Starter Pack](#小刀-cutter-通用新手包-generalist-starter-pack)
 
-[番外篇：小刀 漫步者 (Cutter Rambler)](#番外篇小刀-漫步者-cutter-rambler)
+[番外篇：小刀 漫步者 (Cutter Rambler)](#番外篇：小刀-漫步者-cutter-rambler)
 
-[100i](#100i)
+[100i](#_100i)
 
-[复仇者 泰坦 (Avenger Titan) - 决斗家新手包 / Duelist Starter Pack](#复仇者-泰坦-avenger-titan---决斗家新手包--duelist-starter-pack)
+[复仇者 泰坦 (Avenger Titan) - 决斗家新手包 / Duelist Starter Pack](#复仇者-泰坦-avenger-titan-决斗家新手包-duelist-starter-pack)
 
-[魔像 (Golem) - 矿工新手包 / Miner Starter Pack](#魔像-golem---矿工新手包--miner-starter-pack)
+[魔像 (Golem) - 矿工新手包 / Miner Starter Pack](#魔像-golem-矿工新手包-miner-starter-pack)
 
-[无畏 (Intrepid) - 货运新手包 / Hauler Starter Pack](#无畏-intrepid---货运新手包--hauler-starter-pack)
+[无畏 (Intrepid) - 货运新手包 / Hauler Starter Pack](#无畏-intrepid-货运新手包-hauler-starter-pack)
 
-[速伦 (Syulen) - 异乡人新手包 / Outsider Starter Pack](#速伦-syulen---异乡人新手包--outsider-starter-pack)
+[速伦 (Syulen) - 异乡人新手包 / Outsider Starter Pack](#速伦-syulen-异乡人新手包-outsider-starter-pack)
 
-[箭头 (Arrow) - 精英决斗新手包 / Advanced Duelist Starter Pack](#箭头-arrow---精英决斗新手包--advanced-duelist-starter-pack)
+[箭头 (Arrow) - 精英决斗新手包 / Advanced Duelist Starter Pack](#箭头-arrow-精英决斗新手包-advanced-duelist-starter-pack)
 
-[游牧 (Nomad) - 高级货运新手包 - Advanced Hauler Starter Pack](#游牧-nomad---高级货运新手包---advanced-hauler-starter-pack)
+[游牧 (Nomad) - 高级货运新手包 - Advanced Hauler Starter Pack](#游牧-nomad-高级货运新手包-advanced-hauler-starter-pack)
 
 
 ### 极光MR (Aurora MR)
+
+> [!WARNING]
+> 本资格包**已下架**，仅作参考
 
 ![jgmr](https://pic1.imgdb.cn/item/680097e388c538a9b5d5b790.png)
 
@@ -209,6 +212,9 @@
 [回到本章节目录](#资格包介绍)
 
 ### 100i
+
+> [!WARNING]
+> 本资格包**已下架**，仅作参考
 
 ![100i](https://pic1.imgdb.cn/item/680369d358cb8da5c8b5912f.png)
 
